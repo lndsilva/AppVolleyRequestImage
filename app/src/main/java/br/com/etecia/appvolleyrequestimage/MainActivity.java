@@ -16,7 +16,7 @@ import com.android.volley.toolbox.ImageRequest;
 public class MainActivity extends AppCompatActivity {
     Button btnCarregar;
     ImageView imgServidor;
-    String server_url = "http://192.168.100.5/projetovolleyapi/logo.png";
+    String server_url = "http://192.168.100.13/projetovolleyapi/tecnologia.jpg";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
